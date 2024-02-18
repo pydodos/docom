@@ -2,7 +2,7 @@ import random
 encouragement = ['      오늘 하루 정말 멋졌어요!', '      오늘도 수고했어요!', '      오늘 열심이었어요. 이제 푹 쉬어요.']
 hello = ['      안녕하세요? 전 docom 이라고 해요.', '      인사해주어서 고마워요!', '      좋은 하루 보내세요~']
 z = 100
-print('docom ver a1. 2. 3\n도움말을 원하시면 /help 또는 /? 를 입력하세요.')
+print('docom ver A1.re\n도움말을 원하시면 /help 또는 /? 를 입력하세요.')
 while z == 100:
     a = (input('>>> '))
     if(a == '/?' or a == '/help'):
@@ -36,6 +36,6 @@ while z == 100:
     elif(a == '/who'):
         print('      만든 사람 : 김도훈')
     elif(a == '/ver'):
-        print('      ver a1.re, 구버전입니다. 업데이트가 필요합니다. 업데이트 -> https://github.com/pydodos/docom')
+        print('      ver A1.re, 구버전입니다. 업데이트가 필요합니다. 업데이트 -> https://github.com/pydodos/docom')
     else:
         print('      error\n      명령어에 /를 포함했나요?\n      명령어의 철자가 맞나요?\n      간결화 명령어일 경우 뒤에 .을 붙였나요?\n      위가 하나도 지켜지지 않을 경우 오류가 납니다.\n      docom이 처음이라면 /?나 /help를 입력해 도움을 받으십시요.')
