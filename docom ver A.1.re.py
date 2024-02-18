@@ -36,6 +36,6 @@ while z == 100:
     elif(a == '/who'):
         print('      만든 사람 : 김도훈')
     elif(a == '/ver'):
-        print('      ver a1. 2. 3, 구버전입니다. 업데이트가 필요합니다.\n      6/6 a1. 1 - /hello, /esc 외 5개의 명령어 추가\n      6/6 a1. 2 - /encouragement명령어 간편화, /who, /ver명령어 추가, 각종 간편 업데이트')
+        print('      ver a1.re, 구버전입니다. 업데이트가 필요합니다. 업데이트 -> https://github.com/pydodos/docom')
     else:
         print('      error\n      명령어에 /를 포함했나요?\n      명령어의 철자가 맞나요?\n      간결화 명령어일 경우 뒤에 .을 붙였나요?\n      위가 하나도 지켜지지 않을 경우 오류가 납니다.\n      docom이 처음이라면 /?나 /help를 입력해 도움을 받으십시요.')
