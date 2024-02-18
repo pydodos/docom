@@ -16,7 +16,7 @@ encouragement = ['      오늘 하루 정말 멋졌어요!', '      오늘도 �
 hello = ['      안녕하세요? 전 docom 이라고 해요.', '      인사해주어서 고마워요!', '      좋은 하루 보내세요~']
 random = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
 z = 100
-print('docom ver a2. 2. 4\n도움말을 원하시면 /help 또는 /? 를 입력하세요.')
+print('docom ver A3.2\n도움말을 원하시면 /help 또는 /? 를 입력하세요.')
 while z == 100:
     a = 0
     b = 0
