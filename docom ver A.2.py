@@ -43,7 +43,7 @@ while z == 100:
     elif(a == '/who'):
         print('      만든 사람 : 김도훈\n     만든 사람의 말/painting 넘 어렵다')
     elif(a == '/ver'):
-        print('      ver a2. 2. 4, 구버전입니다. 업데이트가 필요합니다.\n      6/6 a1. 1 - /hello, /esc 외 5개의 명령어 추가\n      6/6 a1. 2 - /encouragement명령어 간편화, /who, /ver명령어 추가, 각종 간편 업데이트\n      6/7 a2. 1 - /painting, /pain., /rcp명령어 추가\n      6/7 a2.2   ')
+        print('      ver A2, 구버전입니다. 업데이트가 필요합니다. 업데이트 -> https://github.com/pydodos/docom')
     elif(a == '/rcp'):
         d = 100
         while d == 100:
