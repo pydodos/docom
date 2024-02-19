@@ -1,3 +1,0 @@
-ver A.2 릴리스 노트
-/painting, /pain., /rcp명령어 추가
-버그수정
