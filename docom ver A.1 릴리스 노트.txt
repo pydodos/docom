@@ -1,6 +1,0 @@
-ver A.1 릴리스 노트
-/esc 추가
-/hello 추가
-/plus 및 /minus 추가
-/plus. 및 /minus. 추가
-/encouragement 추가 
